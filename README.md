@@ -3,5 +3,5 @@ a simple Python script that I made that you can use to get wikipedia page from c
 ## Usage
 Make sure you had the modules listed in requirements.txt installed. Then simply enter the page you want when prompted
   
-![image 1](https://i.imgur.com/w5qH0Gj.png)  
-![image 2](https://i.imgur.com/PxkqDGA.png)
+![image 1](https://i.imgur.com/jW8Am2T.png)  
+![image 2](https://i.imgur.com/O3Lxoq2.png)
